@@ -7,7 +7,7 @@ Projeto de criação de um portifolio orientado por, Rafaella Ballerini e Guilhe
 > ✅ Finalizado
 
 ## 🛠️ Funcionalidades e Demonstração da Aplicação
-Uma lading page profissional desenvolvido com estrutura de arquivos e tagsClasses, posicionamento e Flexbox trabalhado com responsividade, com links para o GitHub e Linkedin,
+Uma lading page profissional desenvolvida com estrutura de arquivos e tagsClasses, posicionamento e Flexbox trabalhado com responsividade, com links para o GitHub e Linkedin,
  
 ## Projeto
 
