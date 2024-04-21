@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato</title>
+    <link rel="stylesheet" href="contato.css">
+</head>
+<body>
+    <header class="cabecalho">
+        <nav class="cabecalho__menu">
+            <a class="cabecalho__menu__link" href="../index.html">Home</a>
+            <a class="cabecalho__menu__link" href="../sobre/about.html">Sobre mim</a>
+            <a class="cabecalho__menu__link" href="../curriculo/curriculo.html">Currículo</a>
+            <a class="cabecalho__menu__link" href="../contato/contato.html">Contato</a>
+        </nav>
+    </header>
+
+    <main class="contato">
+        <h1><strong>Karisma Sousa | Contato</strong></h1>
+
+        <section class="informacoes-contato">
+            <h2>Informações para Contato</h2>
+            <p>Email: <a href="mailto:seuemail@example.com">sousakarisma@gmail.com</a></p>
+            <p>Telefone: (61) 99519-5420</p>
+            <p>Endereço: Brasília/DF </p>
+        </section>
+
+        <section class="formulario-contato">
+            <h2>Formulário de Contato</h2>
+            <form id="contactForm">
+                <div class="form-group">
+                    <label for="nome">Nome:</label>
+                    <input type="text" id="nome" class="form-control" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">E-mail:</label>
+                    <input type="email" id="email" class="form-control" required>
+                </div>
+                <div class="form-group">
+                    <label for="mensagem">Mensagem:</label>
+                    <textarea id="mensagem" class="form-control" required></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Enviar</button>
+            </form>
+        </section>
+    </main>
+
+    <footer class="rodape">
+        <p>Desenvolvido por Karisma Sousa</p>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            document.getElementById('contactForm').addEventListener('submit', function(event) {
+                event.preventDefault(); 
+                alert('Mensagem enviada com sucesso!'); 
+                document.getElementById('contactForm').reset(); 
+            });
+        });
+    </script>
+</body>
+</html>
