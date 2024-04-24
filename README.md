@@ -1,7 +1,7 @@
 <h1 text-align=center>Portfólio</h1>
 
 ## Descrição do Projeto
-Projeto de criação de um portifolio orientado por, Rafaella Ballerini e Guilherme Lima no Trinus | Alura Include.
+Projeto de criação de um portifolio.
 
 ## Status do Projeto
 > ✅ Finalizado
