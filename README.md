@@ -12,10 +12,10 @@ Uma lading page profissional desenvolvida com estrutura de arquivos e tagsClasse
 ## Projeto
 
 ### Tela Inicial
-![tela-inicial](https://github.com/karismasousa/portifolio/assets/106543715/0d3d33bc-f3f6-42a3-bbd2-96927de756bf)
+
 
 ### Segunda Tela
-![segunda-tela](https://github.com/karismasousa/portifolio/assets/106543715/1871c9c0-683e-49cd-b056-4f5e0e662f81)
+
 
 ## Tecnologias utilizadas
 - HTML
