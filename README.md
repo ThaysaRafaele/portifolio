@@ -23,4 +23,4 @@ Uma lading page profissional desenvolvida com estrutura de arquivos e tagsClasse
 
 ## Pessoas Desenvolvedoras do Projeto
 <img style="width:100px" border-radius=10px src="https://user-images.githubusercontent.com/106543715/236315303-48334824-b6ab-44ff-ae24-65ed558ae6c2.PNG">
-Karisma Sousa
+Karisma Sousa 
